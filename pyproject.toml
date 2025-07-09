@@ -8,6 +8,8 @@ dependencies = [
     "faker>=37.4.0",
     "jupyter>=1.1.1",
     "notebook>=7.4.4",
+    "ollama>=0.5.1",
     "pandas>=2.3.1",
+    "pydantic>=2.11.7",
     "pytesseract>=0.3.13",
 ]

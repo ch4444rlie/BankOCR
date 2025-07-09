@@ -1,0 +1,354 @@
+[
+  {
+    "text": "690783870",
+    "category": "sensitive_customer",
+    "x": 1689,
+    "y": 226,
+    "width": 188,
+    "height": 32
+  },
+  {
+    "text": "joseph cabrera",
+    "category": "sensitive_customer",
+    "x": 143,
+    "y": 678,
+    "width": 238,
+    "height": 33
+  },
+  {
+    "text": "miami fl 33161",
+    "category": "sensitive_customer",
+    "x": 142,
+    "y": 754,
+    "width": 243,
+    "height": 42
+  },
+  {
+    "text": "11020 ne 14th ave",
+    "category": "sensitive_customer",
+    "x": 143,
+    "y": 719,
+    "width": 313,
+    "height": 26
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2054,
+    "width": 121,
+    "height": 42
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2101,
+    "width": 120,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2148,
+    "width": 121,
+    "height": 40
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2194,
+    "width": 120,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2240,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2287,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2333,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2380,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2426,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "deposit",
+    "category": "transaction_desc",
+    "x": 386,
+    "y": 2476,
+    "width": 121,
+    "height": 43
+  },
+  {
+    "text": "1142400",
+    "category": "amount",
+    "x": 1882,
+    "y": 2152,
+    "width": 145,
+    "height": 27
+  },
+  {
+    "text": "- 3,169.04",
+    "category": "amount",
+    "x": 1294,
+    "y": 1597,
+    "width": 153,
+    "height": 32
+  },
+  {
+    "text": "1349.00",
+    "category": "amount",
+    "x": 1900,
+    "y": 2199,
+    "width": 127,
+    "height": 27
+  },
+  {
+    "text": "$125883.63",
+    "category": "amount",
+    "x": 1843,
+    "y": 2532,
+    "width": 187,
+    "height": 34
+  },
+  {
+    "text": "18 114.00",
+    "category": "amount",
+    "x": 1882,
+    "y": 2388,
+    "width": 145,
+    "height": 27
+  },
+  {
+    "text": "$17,120.00",
+    "category": "amount",
+    "x": 1861,
+    "y": 2057,
+    "width": 166,
+    "height": 33
+  },
+  {
+    "text": "- 15025.68",
+    "category": "amount",
+    "x": 1275,
+    "y": 1646,
+    "width": 169,
+    "height": 32
+  },
+  {
+    "text": "5 100.00",
+    "category": "amount",
+    "x": 1900,
+    "y": 2481,
+    "width": 127,
+    "height": 27
+  },
+  {
+    "text": "5 000.00",
+    "category": "amount",
+    "x": 1900,
+    "y": 2249,
+    "width": 127,
+    "height": 26
+  },
+  {
+    "text": "125 883.63",
+    "category": "amount",
+    "x": 1281,
+    "y": 1541,
+    "width": 166,
+    "height": 31
+  },
+  {
+    "text": "33.138.00",
+    "category": "amount",
+    "x": 1878,
+    "y": 2342,
+    "width": 149,
+    "height": 26
+  },
+  {
+    "text": "$189 296.31",
+    "category": "amount",
+    "x": 1261,
+    "y": 1698,
+    "width": 184,
+    "height": 45
+  },
+  {
+    "text": "24610.00",
+    "category": "amount",
+    "x": 1878,
+    "y": 2106,
+    "width": 149,
+    "height": 27
+  },
+  {
+    "text": "6 908.63",
+    "category": "amount",
+    "x": 1896,
+    "y": 2435,
+    "width": 133,
+    "height": 39
+  },
+  {
+    "text": "3120.00",
+    "category": "amount",
+    "x": 1896,
+    "y": 2295,
+    "width": 131,
+    "height": 27
+  },
+  {
+    "text": "$81,607.40",
+    "category": "amount",
+    "x": 1280,
+    "y": 1486,
+    "width": 165,
+    "height": 35
+  },
+  {
+    "text": "01/15",
+    "category": "date",
+    "x": 155,
+    "y": 2199,
+    "width": 86,
+    "height": 27
+  },
+  {
+    "text": "02/29",
+    "category": "date",
+    "x": 155,
+    "y": 2426,
+    "width": 83,
+    "height": 52
+  },
+  {
+    "text": "02/29",
+    "category": "date",
+    "x": 155,
+    "y": 2476,
+    "width": 83,
+    "height": 43
+  },
+  {
+    "text": "01/14",
+    "category": "date",
+    "x": 155,
+    "y": 2153,
+    "width": 86,
+    "height": 26
+  },
+  {
+    "text": "02/28",
+    "category": "date",
+    "x": 155,
+    "y": 2380,
+    "width": 83,
+    "height": 43
+  },
+  {
+    "text": "02/23",
+    "category": "date",
+    "x": 155,
+    "y": 2333,
+    "width": 86,
+    "height": 43
+  },
+  {
+    "text": "01/02",
+    "category": "date",
+    "x": 155,
+    "y": 2059,
+    "width": 83,
+    "height": 27
+  },
+  {
+    "text": "02/21",
+    "category": "date",
+    "x": 155,
+    "y": 2287,
+    "width": 80,
+    "height": 43
+  },
+  {
+    "text": "01/09",
+    "category": "date",
+    "x": 155,
+    "y": 2106,
+    "width": 83,
+    "height": 27
+  },
+  {
+    "text": "01/21",
+    "category": "date",
+    "x": 155,
+    "y": 2245,
+    "width": 80,
+    "height": 27
+  },
+  {
+    "text": "10",
+    "category": "instance",
+    "x": 1029,
+    "y": 1541,
+    "width": 32,
+    "height": 27
+  },
+  {
+    "text": "2",
+    "category": "instance",
+    "x": 1044,
+    "y": 1597,
+    "width": 17,
+    "height": 27
+  },
+  {
+    "text": "70",
+    "category": "instance",
+    "x": 1017,
+    "y": 1706,
+    "width": 35,
+    "height": 26
+  },
+  {
+    "text": "4",
+    "category": "instance",
+    "x": 1044,
+    "y": 1647,
+    "width": 20,
+    "height": 25
+  }
+]
